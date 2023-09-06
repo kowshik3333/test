@@ -1,0 +1,45 @@
+#mySidenav a {
+    left: -60px;
+    color: white;
+    width: 140px;
+    padding: 15px;
+    position: absolute;
+    transition: 0.3s;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 5px 0 0 5px;
+    text-align: center;
+  }
+  #mySidenav a:hover {
+    left:0;
+  }
+  
+  #HOME {
+    top: 20px;
+    background-color: green;
+  }
+  #KIDS{
+    top: 90px;
+    background-color: blue;
+  }
+  #MENS {
+    top: 160px;
+    background-color: red;
+  }
+  #GIFTCARDS {
+    top: 230px;
+    background-color: gray;
+  }
+  
+  .HOME {
+    color: orange;
+  }
+  .KIDS {
+    color: green;
+  }
+  .MENS {
+    color: blue;
+  }
+  .GIFTCARDS {
+    color: yellow;
+  }
